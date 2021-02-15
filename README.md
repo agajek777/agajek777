@@ -6,3 +6,9 @@ I’m currently enhancing my knowledge about Web Applications and .NET platform.
 Feel free to message me on LinkedIn or via e-mail:
 - adam.gajek@outlook.com
 - https://www.linkedin.com/in/adam-gajek-50842b185/
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agajek777&theme=radical" alt="agajek777" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agajek777&show_icons=true&locale=en&layout=compact&theme=radical" alt="agajek777" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agajek777&show_icons=true&locale=en&theme=radical" alt="agajek777" /></p>
