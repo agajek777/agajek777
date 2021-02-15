@@ -46,7 +46,7 @@ public class Stack
             "RESTful WEB APIs",
             "Single page applications", 
             "MVC", 
-            "Domain Driven Development" 
+            "Domain Driven Development",
             "Microservices"
         };
 }
