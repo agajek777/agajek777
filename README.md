@@ -7,7 +7,16 @@ I’m currently enhancing my knowledge about Web Applications and .NET platform.
 ```csharp
 public class Stack
 {
-    string[] _languages = { "C#", "C++", "T-SQL", "Bash", "TypeScript", "HTML", "CSS" };
+    string[] _languages = 
+        { 
+            "C#", 
+            "C++", 
+            "T-SQL", 
+            "Bash", 
+            "TypeScript", 
+            "HTML", 
+            "CSS" 
+        };
 
     string[] _frameworks =
         { 
@@ -19,9 +28,18 @@ public class Stack
             "Angular" 
         };
 
-    string[] _databases = { "MSSQL", "MongoDb", "Redis" };
+    string[] _databases = 
+        { 
+            "MSSQL", 
+            "MongoDb", 
+            "Redis" 
+        };
 
-    string[] _devOps = { "Azure", "Docker🐳" };
+    string[] _devOps = 
+        { 
+            "Azure", 
+            "Docker🐳" 
+        };
 
     string[] _architecture = 
         { 
