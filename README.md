@@ -7,31 +7,30 @@ I’m currently enhancing my knowledge about Web Applications and .NET platform.
 ```csharp
 public class Stack
 {
-  string[] _languages = { "C#", "C++", "T-SQL", "Bash", "TypeScript", "HTML", "CSS" };
+    string[] _languages = { "C#", "C++", "T-SQL", "Bash", "TypeScript", "HTML", "CSS" };
 
-  string[] _frameworks =
-      { 
-          ".NET Core", 
-          ".NET Framework", 
-          "Entity Framework Core",
-          "XUnit", 
-          "Windows Forms", 
-          "Angular" 
-      };
-  
-  string[] _databases = { "MSSQL", "MongoDb", "Redis" };
-  
-  string[] _devOps = { "Azure", "Docker🐳" };
-    
-  string[] _architecture = 
-      { 
-          "RESTful WEB APIs",
-          "Single page applications", 
-          "MVC", 
-          "Domain Driven Development" 
-          "Microservices"
-      };
+    string[] _frameworks =
+        { 
+            ".NET Core", 
+            ".NET Framework", 
+            "Entity Framework Core",
+            "XUnit", 
+            "Windows Forms", 
+            "Angular" 
+        };
 
+    string[] _databases = { "MSSQL", "MongoDb", "Redis" };
+
+    string[] _devOps = { "Azure", "Docker🐳" };
+
+    string[] _architecture = 
+        { 
+            "RESTful WEB APIs",
+            "Single page applications", 
+            "MVC", 
+            "Domain Driven Development" 
+            "Microservices"
+        };
 }
 
 ```
