@@ -56,7 +56,7 @@ public class Stack
 ## 📫 How to reach me 
 Feel free to message me on LinkedIn or via e-mail:
 - adam.gajek@outlook.com
-- https://www.linkedin.com/in/adam-gajek-50842b185/
+- https://www.linkedin.com/in/adam-gajek7/
 
 ## 🔢 Some stats
 
